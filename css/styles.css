@@ -18,6 +18,10 @@ body {
     list-style: none;
 }
 
+.btn {
+    border: none;
+}
+
 /* -----LOGO----- */
 .logo {
     font-family: var(--font-secondary);
@@ -119,7 +123,7 @@ span {
 /* -----EXAMPLES----- */
 .examples-title {
     font-family: var(--font-main);
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -132,7 +136,7 @@ span {
 
 .team-title {
     font-family: var(--font-main);
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
